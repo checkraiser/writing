@@ -1,10 +1,10 @@
-== Install libmcrypt extension for php on MACOSX 10.9
+** Install libmcrypt extension for php on MACOSX 10.9
 
 1. Download the source
 
-- Download the code for libmcrypt (here)[http://sourceforge.net/projects/mcrypt/files/Libmcrypt/2.5.8/]
+- Download the code for libmcrypt [here](http://sourceforge.net/projects/mcrypt/files/Libmcrypt/2.5.8/)
 
-- Download the php(5.4.17) code (here)[http://museum.php.net/php5/php-5.4.17.tar.bz2]
+- Download the php(5.4.17) code [here](http://museum.php.net/php5/php-5.4.17.tar.bz2)
 
 - Extract all to ~/php/mcrypt
 
